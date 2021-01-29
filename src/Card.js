@@ -10,7 +10,6 @@ const Card =({name,id,email}) => {
                 <h2>{name}</h2>
                 <p>{email}</p>
             </div>
-
         </div> 
     );
 }
